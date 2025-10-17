@@ -1,0 +1,252 @@
+[
+    {
+        "module": ".\\2021roboSeparateBoardLib_setting.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 232, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 98
+        }
+    }, 
+    {
+        "module": ".\\aGyro_imu03a.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 16
+        }
+    }, 
+    {
+        "module": ".\\aKMD.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 38
+        }
+    }, 
+    {
+        "module": ".\\aRotaryEncoder_v2020.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 338
+        }
+    }, 
+    {
+        "module": ".\\ak_robo_motor.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\differential.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\main.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 568, 
+            ".data": 5, 
+            ".bss-delta": 0, 
+            ".text": 1305
+        }
+    }, 
+    {
+        "module": ".\\mecanum.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\mu3.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 408, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 84
+        }
+    }, 
+    {
+        "module": ".\\omuni.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\origin.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\rohm_motor.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\stick.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": ".\\useful.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 28, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "MbedOS2\\TARGET_NUCLEO_F303RE", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1468, 
+            ".data": 264, 
+            ".bss-delta": 0, 
+            ".text": 16813
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 24, 
+            ".data": 10, 
+            ".bss-delta": 0, 
+            ".text": 429
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 127, 
+            ".data": 2548, 
+            ".bss-delta": 0, 
+            ".text": 69527
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 7224
+        }
+    }, 
+    {
+        "module": "[lib]\\mbed.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 314, 
+            ".data": 8, 
+            ".bss-delta": 0, 
+            ".text": 6539
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 28, 
+            ".data": 16, 
+            ".bss-delta": 0, 
+            ".text": 252
+        }
+    }, 
+    {
+        "module": "[lib]\\nosys.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "[lib]\\stdc++.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 5676, 
+            ".data": 165, 
+            ".bss-delta": 0, 
+            ".text": 171534
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 11936, 
+            "total_flash_delta": 0, 
+            "static_ram_delta": 0, 
+            "total_flash": 277569
+        }
+    }
+]
